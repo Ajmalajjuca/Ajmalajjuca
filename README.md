@@ -3,7 +3,7 @@
   <img align="right" src="https://profile-counter.glitch.me/adi-dev-x/count.svg">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&background=EF140F00&width=435&lines=Hi!+I+am+Ajmal+C+A;MernStack Devloper+NodeJS+Express.js+React;Freelancer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&background=EF140F00&width=435&lines=Hi!+I+am+Ajmal+C+A;MernStack Devloper+Node.js+Express.js+React;Freelancer" alt="Typing SVG" />
   </a>
 </div>
 
