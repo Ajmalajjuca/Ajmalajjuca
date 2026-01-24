@@ -1,6 +1,6 @@
 <div align="center">
   <p align="right" style="font-family:Orbitron;">PROFILE VISITS</p>
-  <img align="right" src="https://profile-counter.glitch.me/adi-dev-x/count.svg">
+  <img align="right" src="https://komarev.com/ghpvc/?username=ajmalajjuca&color=blue&style=flat">
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&pause=1000&width=435&lines=Hi!+I+am+Ajmal+C+A;MernStack+Developer;Node.js;Freelancer" alt="Typing SVG" />
