@@ -9,7 +9,7 @@
 
 <br>
 # 💫 About Me:
-🌱 I’m currently learning React, AWS, GraphQL, DSA
+🌱 I’m currently learning React, AWS, GraphQL, DSA 
 
 📫 Reach me at: [Ajmalajju313786@gmail.com](mailto:ajmalajju313786@gmail.com)
 
